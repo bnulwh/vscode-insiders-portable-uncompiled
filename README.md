@@ -25,7 +25,6 @@ All downloads available [in the Releases section][D1].
 * Completely portable - runs off a USB, cloud drive (DropBox, iCloud drive,
   OneDrive, etc) or hard drive.
 * Does not require administrator privileges, works for any user.
-* No need for any external software - simply download extract and run!
 
 ## System Requirements
 * Microsoft Windows 7 or later.  
